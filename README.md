@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Istkhar Music🎵</h1>
 
 <p align="center">
-  <img src="https://envs.sh/iCT.jpg" alt="Istkhar Music Logo" width="600" height="150">
+  <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
