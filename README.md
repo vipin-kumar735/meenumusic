@@ -19,7 +19,7 @@
   <a href="https://Istkharhost.in/">
     <img src="https://img.shields.io/badge/Cheapest%20Web%20Hosting-1A237E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cheapest Web Hosting">
   </a>
-  <a href="https://t.me/Istkhar_pratap">
+  <a href="https://t.me/Istkhar_Syn">
     <img src="https://img.shields.io/badge/Contact%20Owner-2E64FE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Owner">
   </a>
 </p>
@@ -144,10 +144,10 @@ For a full list of commands, use /help in [telegram](https://t.me/IstkharumusicB
 Stay updated with the latest features and improvements to Istkhar Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/TEAM-ISTKHARchat">
+  <a href="https://telegram.me/Arishfa_Update">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TEAM-ISTKHAR">
+  <a href="https://telegram.me/ll_ISTKHAR_ll">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -177,5 +177,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/Istkharumusicbot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/IstkharMusic) For their Source Codes.
+- [Istkhar Music Bot](https://t.me/KittuXrobot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/IstkharMusic) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
