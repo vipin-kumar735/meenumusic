@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Istkhar Music🎵</h1>
+<h1 align="center">🎵 meenu Music🎵</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
@@ -30,7 +30,7 @@
 #### 🛠️  Api For Music bot
 | Api Plan Name          | Daily Requests | Monthly Price  |
 |--------------------|----------------|----------------|
-| Month Plan          | 5,000          | ₹100          |
+| Month Plan          | 5,000          | ₹80          |
 ---
 
 ### 📌 Important Notes About API Usage
@@ -135,7 +135,7 @@ The Istkhar Music Bot offers a range of commands to enhance your music listening
 | /stop                 | Stop the bot and clear the queue.           |
 | /queue                | Display the list of songs in the queue.     |
 
-For a full list of commands, use /help in [telegram](https://t.me/Amitamusicbot).
+For a full list of commands, use /help in [telegram](https://t.me/ll_bots_ll).
 
 ---
 
@@ -177,5 +177,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 ### 🙏 Acknowledgements
 
 Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/Amitamusicbot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/IstkharMusic) For their Source Codes.
+- [Istkhar Music Bot](https://t.me/Amitamusicbot) and [source ](https://t.me/ll_bots_ll:) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
