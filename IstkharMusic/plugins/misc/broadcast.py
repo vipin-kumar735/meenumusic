@@ -4,9 +4,9 @@ from pyrogram import filters
 from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
-from BrandrdXMusic import app
-from BrandrdXMusic.misc import SUDOERS
-from BrandrdXMusic.utils.database import (
+from IstkharMusic import app
+from IstkharMusic import SUDOERS
+from IstkharMusic.utils.database import (
     get_active_chats,
     get_authuser_names,
     get_client,
@@ -167,3 +167,4 @@ async def auto_clean():
 
 
 asyncio.create_task(auto_clean())
+
