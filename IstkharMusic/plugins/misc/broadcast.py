@@ -13,8 +13,8 @@ from IstkharMusic.utils.database import (
     get_served_chats,
     get_served_users,
 )
-from BrandrdXMusic.utils.decorators.language import language
-from BrandrdXMusic.utils.formatters import alpha_to_int
+from IstkharMusic.utils.decorators.language import language
+from IstkharMusic.utils.formatters import alpha_to_int
 from config import adminlist
 
 IS_BROADCASTING = False
@@ -167,4 +167,5 @@ async def auto_clean():
 
 
 asyncio.create_task(auto_clean())
+
 
