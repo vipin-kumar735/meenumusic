@@ -23,7 +23,7 @@ import traceback
 from IstkharMusic import LOGGER
 
 API_URL = "https://teaminflex.xyz"  # Change to your API server URL
-API_KEY = "INFLEX83797328D"
+API_KEY = "INFLEX58836828D"
 
 def cookie_txt_file():
     cookie_dir = f"{os.getcwd()}/cookies"
